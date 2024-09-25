@@ -4,6 +4,23 @@ Proyecto Final
 
 Land Mines Detection
 
-La detección de minas enterradas en el suelo es muy importante para la seguridad de la vida y la propiedad. Se han utilizado muchos métodos diferentes en este sentido; sin embargo, hasta ahora no ha sido posible lograr un éxito del 100%. El proceso de detección de minas consta de fases de diseño de sensores, análisis de datos y algoritmo de decisión. El método de anomalía magnética funciona según el principio de medir las anomalías resultantes del objeto en el campo magnético que perturba la estructura del mismo, y los datos obtenidos en este punto se utilizan para determinar las condiciones como el movimiento y la posición. La determinación de parámetros como la posición, la profundidad o la dirección del movimiento mediante anomalías magnéticas se lleva a cabo desde 1970.
+Descripción del Proyecto
+Este proyecto tiene como objetivo incrementar la eficacia en la identificación de minas terrestres utilizando múltiples técnicas de machine learning. Partimos de un dataset específico de minas terrestres, aplicando diversos algoritmos de clasificación para desarrollar un modelo robusto y preciso que mejore los procesos de detección.
+
+La identificación precisa de minas es un reto crucial en muchas regiones afectadas por conflictos bélicos. Nuestro enfoque busca optimizar el análisis de datos relacionados con minas, evaluando diferentes enfoques de machine learning para seleccionar el que mejor rendimiento ofrezca.
+
+Enfoque Metodológico
+Análisis del Dataset: Comenzamos explorando y preprocesando el dataset, asegurándonos de que los datos estén listos para su uso en modelos de machine learning. Esto incluye la limpieza de datos, el manejo de valores nulos y la normalización de variables cuando sea necesario.
+
+Técnicas de Machine Learning: Aplicamos diversas técnicas de clasificación, entre las cuales se incluyen:
+
+Regresión Logística
+Máquinas de Soporte Vectorial (SVM)
+Árboles de Decisión y Random Forest
+Redes Neuronales
+Gradient Boosting Machines (GBM)
+Evaluación del Modelo: Utilizamos métricas de rendimiento como la precisión, recall, F1 score y curva ROC-AUC para evaluar el desempeño de cada modelo. Además, se llevarán a cabo procesos de validación cruzada para asegurar la generalización de los resultados.
+
+Optimización: Implementamos técnicas de ajuste de hiperparámetros como Grid Search y Random Search para mejorar el rendimiento de los modelos seleccionados.
 
 https://www.kaggle.com/datasets/ritwikb3/land-mines-detection
