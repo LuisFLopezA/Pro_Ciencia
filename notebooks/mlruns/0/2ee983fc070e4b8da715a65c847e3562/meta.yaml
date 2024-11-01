@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/2ee983fc070e4b8da715a65c847e3562/artifacts
+end_time: 1730429459115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ee983fc070e4b8da715a65c847e3562
+run_name: luxuriant-shark-705
+run_uuid: 2ee983fc070e4b8da715a65c847e3562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730429459049
+status: 3
+tags: []
+user_id: luisl

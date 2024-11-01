@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/97ca0a16d77148ec98934c89f6ac6bbc/artifacts
+end_time: 1730428613966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97ca0a16d77148ec98934c89f6ac6bbc
+run_name: classy-moose-321
+run_uuid: 97ca0a16d77148ec98934c89f6ac6bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730428613915
+status: 3
+tags: []
+user_id: luisl

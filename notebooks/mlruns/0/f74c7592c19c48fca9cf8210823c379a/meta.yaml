@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/f74c7592c19c48fca9cf8210823c379a/artifacts
+end_time: 1730431234077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f74c7592c19c48fca9cf8210823c379a
+run_name: suave-quail-466
+run_uuid: f74c7592c19c48fca9cf8210823c379a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431234010
+status: 3
+tags: []
+user_id: luisl

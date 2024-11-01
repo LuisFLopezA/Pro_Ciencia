@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/9ea0431df8a24b8fb6b63a5dc9c299c4/artifacts
+end_time: 1730428614109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ea0431df8a24b8fb6b63a5dc9c299c4
+run_name: chill-rat-435
+run_uuid: 9ea0431df8a24b8fb6b63a5dc9c299c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730428614034
+status: 3
+tags: []
+user_id: luisl

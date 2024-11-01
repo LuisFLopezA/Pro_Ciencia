@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/8a04065fdd5447c2a14e9eaf3f69cbda/artifacts
+end_time: 1730431222378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a04065fdd5447c2a14e9eaf3f69cbda
+run_name: redolent-cow-113
+run_uuid: 8a04065fdd5447c2a14e9eaf3f69cbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431220111
+status: 3
+tags: []
+user_id: luisl

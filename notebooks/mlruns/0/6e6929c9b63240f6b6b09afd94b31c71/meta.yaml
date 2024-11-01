@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/6e6929c9b63240f6b6b09afd94b31c71/artifacts
+end_time: 1730431234560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e6929c9b63240f6b6b09afd94b31c71
+run_name: judicious-goat-429
+run_uuid: 6e6929c9b63240f6b6b09afd94b31c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431234493
+status: 3
+tags: []
+user_id: luisl

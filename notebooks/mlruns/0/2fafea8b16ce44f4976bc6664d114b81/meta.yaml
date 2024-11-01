@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/2fafea8b16ce44f4976bc6664d114b81/artifacts
+end_time: 1730431198604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fafea8b16ce44f4976bc6664d114b81
+run_name: selective-stork-113
+run_uuid: 2fafea8b16ce44f4976bc6664d114b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431198549
+status: 3
+tags: []
+user_id: luisl

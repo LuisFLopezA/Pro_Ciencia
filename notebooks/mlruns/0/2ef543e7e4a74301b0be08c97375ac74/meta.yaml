@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/2ef543e7e4a74301b0be08c97375ac74/artifacts
+end_time: 1730430431892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ef543e7e4a74301b0be08c97375ac74
+run_name: dashing-sponge-646
+run_uuid: 2ef543e7e4a74301b0be08c97375ac74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430431840
+status: 4
+tags: []
+user_id: luisl

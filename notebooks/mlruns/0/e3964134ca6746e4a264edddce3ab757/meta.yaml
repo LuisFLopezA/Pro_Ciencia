@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/e3964134ca6746e4a264edddce3ab757/artifacts
+end_time: 1730430900946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3964134ca6746e4a264edddce3ab757
+run_name: auspicious-wasp-250
+run_uuid: e3964134ca6746e4a264edddce3ab757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430895880
+status: 3
+tags: []
+user_id: luisl

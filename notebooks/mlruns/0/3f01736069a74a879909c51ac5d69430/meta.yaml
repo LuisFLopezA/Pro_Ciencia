@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/3f01736069a74a879909c51ac5d69430/artifacts
+end_time: 1730430889498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f01736069a74a879909c51ac5d69430
+run_name: suave-rook-838
+run_uuid: 3f01736069a74a879909c51ac5d69430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430887665
+status: 3
+tags: []
+user_id: luisl

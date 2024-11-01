@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/f3726126bcfc463498c542cfdf3d0a31/artifacts
+end_time: 1730430904296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3726126bcfc463498c542cfdf3d0a31
+run_name: flawless-lamb-991
+run_uuid: f3726126bcfc463498c542cfdf3d0a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430900963
+status: 3
+tags: []
+user_id: luisl

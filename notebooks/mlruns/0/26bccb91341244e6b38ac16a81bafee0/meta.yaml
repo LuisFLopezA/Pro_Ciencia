@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/26bccb91341244e6b38ac16a81bafee0/artifacts
+end_time: 1730428614031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26bccb91341244e6b38ac16a81bafee0
+run_name: resilient-tern-362
+run_uuid: 26bccb91341244e6b38ac16a81bafee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730428613982
+status: 3
+tags: []
+user_id: luisl

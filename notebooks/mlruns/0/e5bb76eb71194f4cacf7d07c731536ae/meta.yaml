@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/e5bb76eb71194f4cacf7d07c731536ae/artifacts
+end_time: 1730431198377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5bb76eb71194f4cacf7d07c731536ae
+run_name: orderly-stoat-929
+run_uuid: e5bb76eb71194f4cacf7d07c731536ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431198280
+status: 3
+tags: []
+user_id: luisl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/a349cf7307e446da8584137e27183ac1/artifacts
+end_time: 1730431234598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a349cf7307e446da8584137e27183ac1
+run_name: KNN Hyperparameter Tuning
+run_uuid: a349cf7307e446da8584137e27183ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431233744
+status: 3
+tags: []
+user_id: luisl

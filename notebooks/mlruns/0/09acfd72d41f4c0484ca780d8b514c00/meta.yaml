@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/09acfd72d41f4c0484ca780d8b514c00/artifacts
+end_time: 1730430895864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09acfd72d41f4c0484ca780d8b514c00
+run_name: loud-elk-694
+run_uuid: 09acfd72d41f4c0484ca780d8b514c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430893716
+status: 3
+tags: []
+user_id: luisl

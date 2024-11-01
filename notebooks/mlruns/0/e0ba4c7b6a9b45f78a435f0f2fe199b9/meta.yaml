@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/e0ba4c7b6a9b45f78a435f0f2fe199b9/artifacts
+end_time: 1730430520635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0ba4c7b6a9b45f78a435f0f2fe199b9
+run_name: awesome-shrimp-813
+run_uuid: e0ba4c7b6a9b45f78a435f0f2fe199b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430518475
+status: 3
+tags: []
+user_id: luisl

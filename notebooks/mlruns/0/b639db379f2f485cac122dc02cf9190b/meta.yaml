@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/b639db379f2f485cac122dc02cf9190b/artifacts
+end_time: 1730431233950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b639db379f2f485cac122dc02cf9190b
+run_name: wistful-crane-767
+run_uuid: b639db379f2f485cac122dc02cf9190b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431233890
+status: 3
+tags: []
+user_id: luisl

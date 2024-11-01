@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/7cd1c889b36e4e1e9a67b4d59eef59a9/artifacts
+end_time: 1730431233739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cd1c889b36e4e1e9a67b4d59eef59a9
+run_name: Gradient Boosting Hyperparameter Tuning
+run_uuid: 7cd1c889b36e4e1e9a67b4d59eef59a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431198639
+status: 3
+tags: []
+user_id: luisl

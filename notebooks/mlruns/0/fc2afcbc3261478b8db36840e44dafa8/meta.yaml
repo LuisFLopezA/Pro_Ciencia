@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/fc2afcbc3261478b8db36840e44dafa8/artifacts
+end_time: 1730430199271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc2afcbc3261478b8db36840e44dafa8
+run_name: Logistic Regression Hyperparameter Tuning
+run_uuid: fc2afcbc3261478b8db36840e44dafa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430198738
+status: 4
+tags: []
+user_id: luisl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/adaac4e1523d4a72a186bece1a04b394/artifacts
+end_time: 1730431234210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adaac4e1523d4a72a186bece1a04b394
+run_name: welcoming-asp-550
+run_uuid: adaac4e1523d4a72a186bece1a04b394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431234160
+status: 3
+tags: []
+user_id: luisl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/9bd7844b8cd44a3d8d09b88125a34ab5/artifacts
+end_time: 1730429459263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bd7844b8cd44a3d8d09b88125a34ab5
+run_name: powerful-goose-57
+run_uuid: 9bd7844b8cd44a3d8d09b88125a34ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730429459199
+status: 3
+tags: []
+user_id: luisl

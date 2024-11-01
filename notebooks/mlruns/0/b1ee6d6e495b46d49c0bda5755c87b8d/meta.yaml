@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/b1ee6d6e495b46d49c0bda5755c87b8d/artifacts
+end_time: 1730430908835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1ee6d6e495b46d49c0bda5755c87b8d
+run_name: traveling-pug-51
+run_uuid: b1ee6d6e495b46d49c0bda5755c87b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430905513
+status: 3
+tags: []
+user_id: luisl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/7d7de04d5cb94e2e94fd32f18588c31b/artifacts
+end_time: 1730430198989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d7de04d5cb94e2e94fd32f18588c31b
+run_name: clean-wasp-868
+run_uuid: 7d7de04d5cb94e2e94fd32f18588c31b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430198951
+status: 3
+tags: []
+user_id: luisl

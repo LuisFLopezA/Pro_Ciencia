@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/c3b97bb1af4f435aa42f66bc18f4cfe2/artifacts
+end_time: 1730431198129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3b97bb1af4f435aa42f66bc18f4cfe2
+run_name: mercurial-chimp-268
+run_uuid: c3b97bb1af4f435aa42f66bc18f4cfe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730431198059
+status: 3
+tags: []
+user_id: luisl

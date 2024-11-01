@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/36002098fba74e76be37e26f1c45c2e9/artifacts
+end_time: 1730430199038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36002098fba74e76be37e26f1c45c2e9
+run_name: crawling-bug-663
+run_uuid: 36002098fba74e76be37e26f1c45c2e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730430198999
+status: 3
+tags: []
+user_id: luisl
