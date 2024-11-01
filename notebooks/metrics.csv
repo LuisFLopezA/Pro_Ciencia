@@ -1,16 +1,1 @@
 Name,Value,Timestamp,Step
-"Logistic Regression - Accuracy",0.5147058823529411,1730431198619,1
-"Logistic Regression - Missclassification rate",0.4852941176470589,1730431198619,1
-"Logistic Regression - Precision",0.5182813510019393,1730431198619,1
-"Logistic Regression - Recall",0.5147058823529411,1730431198619,1
-"Logistic Regression - F1-score",0.4765391059508706,1730431198619,1
-"Gradient Boosting - Accuracy",0.5588235294117647,1730431233631,1
-"Gradient Boosting - Missclassification rate",0.4411764705882353,1730431233631,1
-"Gradient Boosting - Precision",0.5457336780866192,1730431233631,1
-"Gradient Boosting - Recall",0.5588235294117647,1730431233631,1
-"Gradient Boosting - F1-score",0.5462745098039216,1730431233631,1
-"KNN - Accuracy",0.5,1730431234577,1
-"KNN - Missclassification rate",0.5,1730431234577,1
-"KNN - Precision",0.47458910034602075,1730431234577,1
-"KNN - Recall",0.5,1730431234577,1
-"KNN - F1-score",0.46674264492135736,1730431234577,1

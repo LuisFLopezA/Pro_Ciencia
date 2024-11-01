@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730431930905
+current_stage: None
+description: null
+last_updated_timestamp: 1730431930905
+name: KNN_model
+run_id: a6d798a68b1f4bb1abbea420f06c4523
+run_link: null
+source: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/a6d798a68b1f4bb1abbea420f06c4523/artifacts/KNN_model
+status: READY
+status_message: null
+storage_location: file:///c:/proggg/Pro_Ciencia/notebooks/mlruns/0/a6d798a68b1f4bb1abbea420f06c4523/artifacts/KNN_model
+user_id: null
+version: 1
