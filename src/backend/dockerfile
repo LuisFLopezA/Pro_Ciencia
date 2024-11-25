@@ -8,10 +8,10 @@ WORKDIR /app
 COPY . /app
 
 # Instala las dependencias necesarias
-RUN pip install --no-cache-dir fastapi uvicorn pandas mlflow pydantic
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Expone el puerto que usará la API
+# Expone el puerto usado por FastAPI
 EXPOSE 8000
 
-# Comando para iniciar el servidor de la API
-CMD ["uvicorn", "Api:app", "--host", "0.0.0.0", "--port", "8000"]
+# Comando por defecto para ejecutar FastAPI con Uvicorn
+CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -2,19 +2,18 @@ import streamlit as st
 import requests
 
 # Configuración inicial
-st.set_page_config(page_title="Sistema de Inferencias", layout="centered")
+st.set_page_config(page_title="Land Mines Detection", layout="centered")
 
 # Configuración de la API
 API_URL = "http://api:8000/predict"
 
 # Título de la aplicación
-st.title("Sistema de Inferencias para Clasificación")
-st.write("Interfaz para interactuar con el modelo Champion.")
+st.title("Land Mines Detection")
 
 # Formulario para entrada de datos
 st.header("Entrada de Características")
-v_value = st.number_input("Ingrese el valor de la característica V:", format="%.6f")
-h_value = st.number_input("Ingrese el valor de la característica H:", format="%.6f")
+v_value = st.number_input("Ingrese el valor del Voltaje V:", format="%.6f")
+h_value = st.number_input("Ingrese la altura del sensor H:", format="%.6f")
 
 # Botón para realizar la predicción
 if st.button("Realizar Predicción"):
@@ -47,4 +46,4 @@ if st.button("Realizar Predicción"):
 
 # Pie de página
 st.markdown("---")
-st.caption("Desarrollado por: Francisco Gonzalez")
+st.caption("Desarrollado por: Francisco Gonzalez y Luis Lopez")
