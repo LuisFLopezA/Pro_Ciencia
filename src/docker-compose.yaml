@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501" # Mapea el puerto de Streamlit
+    environment:
+      - API_URL=http://api:8000/predict
+    depends_on:
+      - api
+    networks:
+      - app-network
+
+  api: 
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000" 
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
